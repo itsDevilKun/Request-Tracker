@@ -4,27 +4,12 @@ This is a Request Tracker Bot repo, It is for those who upload content like movi
 
 Don't Forget to give a Star.
 
-## Some ScreenShots
-These ScreenShots might help you to understand this bot well.
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/1.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/2.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/3.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/4.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/5.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/6.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/7.jpg)
-
 
 ## Requirement
-* API ID & API Hash - Get both from https://my.telegram.org
+* API ID
+* API Hash - Get both from https://my.telegram.org
 * Bot Token - Get easily from [Bot Father](https://t.me/BotFather)
-* MongoDB Connection String - Get From MongoDB Atlas
+* MongoDB - String - Get From MongoDB Atlas
 
 
 ## Direct Deploy
