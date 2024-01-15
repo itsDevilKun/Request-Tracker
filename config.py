@@ -10,4 +10,4 @@ class Config(object):
     API_HASH = environ.get("API_HASH", "")
     BOT_TOKEN = environ.get("BOT_TOKEN", "")
     MONGO_STR = environ.get("MONGO_STR", "")
-    PORT = os.environ.get("PORT", "8080")
+    PORT = environ.get("PORT", "8080")
